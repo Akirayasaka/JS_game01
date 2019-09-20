@@ -1,1 +1,2 @@
-JS_game01
+# Javascript minigame
+打地鼠
